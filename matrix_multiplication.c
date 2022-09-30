@@ -4,7 +4,7 @@ int i,j,k;
 int r1,c1,r2,c2;
 printf("Enter Rows and columns of Mat 1 : \n");
 scanf("%d %d", &r1, &c1);
-printf("Enter Rows and columns of Mat 1 : \n");
+printf("Enter Rows and columns of Mat 2 : \n");
 scanf("%d %d", &r2, &c2);
 if(c1 == r2){
 int a[r1][c1];
